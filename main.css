@@ -1,0 +1,24 @@
+header{
+    /*background-color:rgb(126, 185, 38);*/
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+    align-items: center;
+}
+
+/*body{
+    background-color: greenyellow;
+}*/
+
+#links img{
+    width: 50px;
+    padding: 8px 8px 8px 8px;
+}
+
+#links ul{
+    display: flex;
+    list-style-type: none; /*usado junto com o text decoretion none quando estiver usado dysplay flex*/
+}
+
+#links ul li a{
+    text-decoration: none;
+}
